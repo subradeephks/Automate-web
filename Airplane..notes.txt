@@ -1,0 +1,26 @@
+Automation Airplane Ticket Booking Website
+
+ This project demonstrates web automation using Selenium to interact with an airplane ticket booking website.
+
+ The automation script covers:
+
+ *
+Launching the browser and navigating to the booking site.
+
+
+ *Selecting source and destination cities.
+
+
+ *Choosing travel dates from the calendar.
+
+
+ *Increasing/decreasing the number of passengers.
+
+
+ *Selecting currency from the dropdown menu.
+
+
+ *Searching for available flights.
+
+
+ The goal of this project is to practice automation testing skills and showcase the use of Selenium WebDriver, locators, waits, and loops for real-time scenarios.
